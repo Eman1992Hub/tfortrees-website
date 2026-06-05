@@ -284,7 +284,7 @@
     <img src="images/logo.png" alt="T For Trees Liberia Logo" class="logo-img">
 
     <div class="logo-text">
-          <span class="name">T For Trees Liberia</span>
+          <span class="name">T For Trees</span>
           <span class="small">Nourishing the people, restoring the planet</span>
         </div>
       </a>
